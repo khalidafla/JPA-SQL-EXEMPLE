@@ -3,17 +3,13 @@ Exemple basic de l'utilisation d'une implementation de l'api JPA (EclispeLink) a
 
 ###Comment puis-je importer ce projet dans NetBeans ?
 
-    Télécharger le projet https://github.com/khalidafla/JPA-SQL-EXEMPLE/archive/master.zip (Button Download Zip)
+- Télécharger le projet https://github.com/khalidafla/JPA-SQL-EXEMPLE/archive/master.zip (Button Download Zip)
+- Dézipper et enlever le suffix master du nom de dossier
+- Coller le dossier dans votre workspace
+- Ouvrer votre IDE : ouvrir projet -> spécifier le chemin -> OK
+- Si Netbeans le reconait pas en tant qu'un projets maven, vous devez crée un projets maven pour activer les fonctionalités maven dans netbeans: NewProjet -> catégorie : maven, projet : java application > next.. > finish
 
-    Dézipper et enlever le suffix master du nom de dossier
-
-    Coller le dossier dans votre workspace
-
-    Ouvrer votre IDE : ouvrir projet -> spécifier le chemin -> OK
-
-    Si Netbeans le reconait pas en tant qu'un projets maven, vous devez crée un projets maven pour activer les fonctionalités maven: NewProjet -> catégorie : maven, projet : java application > next.. > finish
-
-Une fois crée essayer supprimer le projet recement crée et importer ce projet.
+Une fois crée supprimer le projet recement crée et essayer importer ce projet.
 
 ###Pré-requis :
 
